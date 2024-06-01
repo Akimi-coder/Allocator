@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/akimi/c/allocator/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/allocator.dir/main.c.o -c /home/akimi/c/allocator/main.c",
+  "file": "/home/akimi/c/allocator/main.c"
+},
+{
+  "directory": "/home/akimi/c/allocator/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/allocator.dir/allocator.c.o -c /home/akimi/c/allocator/allocator.c",
+  "file": "/home/akimi/c/allocator/allocator.c"
+},
+{
+  "directory": "/home/akimi/c/allocator/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/allocator.dir/block.c.o -c /home/akimi/c/allocator/block.c",
+  "file": "/home/akimi/c/allocator/block.c"
+},
+{
+  "directory": "/home/akimi/c/allocator/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/allocator.dir/kernel.c.o -c /home/akimi/c/allocator/kernel.c",
+  "file": "/home/akimi/c/allocator/kernel.c"
+}
+]

@@ -1,0 +1,3 @@
+/home/akimi/c/allocator/build/CMakeFiles/allocator.dir
+/home/akimi/c/allocator/build/CMakeFiles/edit_cache.dir
+/home/akimi/c/allocator/build/CMakeFiles/rebuild_cache.dir

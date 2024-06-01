@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "allocator.h": "c",
+        "stddef.h": "c"
+    },
+    "files.autoSaveWhenNoErrors": true,
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "files.autoSave": "afterDelay"
+}

@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/MyProject.dir/main.c.o CMakeFiles/MyProject.dir/allocator.c.o CMakeFiles/MyProject.dir/block.c.o CMakeFiles/MyProject.dir/kernel.c.o -o MyProject 
