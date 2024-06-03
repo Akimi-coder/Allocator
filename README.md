@@ -1,1 +1,1 @@
-Allocator c implementation
+Simple allocator c implementation
